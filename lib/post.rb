@@ -5,5 +5,3 @@ class Post
     ##@title = title
   ##end 
 end
-
-post =Post.new
