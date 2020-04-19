@@ -6,4 +6,4 @@ class Post
   ##end 
 end
 
-post =Post.new("Hello World")
+post =Post.new
